@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - Nikita Kuntsevich, 20 y.o.  <br>
 - Student at ITMO University, Software Engineering (09.03.02).  <br>
-- Machine learning and data science  <br>
+- Passionate about machine learning and data science  <br>
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
