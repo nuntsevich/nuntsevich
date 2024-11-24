@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🤵🏼‍♂️ Nikita Kuntsevich, 20 y.o.  <br>
-🌆 Russia, SPb  <br>
-🧑‍💻 Machine learning engineer.  <br>
-🕵️‍♂️ ITMO University student.  <br>
+- 🤵🏼‍♂️ Nikita Kuntsevich, 20 y.o.  <br>
+- 🌆 Russia, SPb  <br>
+- 🧑‍💻 Machine learning engineer.  <br>
+- 🕵️‍♂️ ITMO University student.  <br>
