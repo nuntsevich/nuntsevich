@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 - Nikita Kuntsevich, 20 y.o.  <br>
 - Machine learning engineer  <br>
-- ITMO University student  <br>
+- ITMO University student, Software Engineering (09.03.02).  <br>
