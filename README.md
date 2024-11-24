@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🤵🏼‍♂️ Nikita Kuntsevich, 20 y.o.
+🌆 Russia, SPb
+🧑‍💻 Machine learning engineer.
+🕵️‍♂️ ITMO University student
