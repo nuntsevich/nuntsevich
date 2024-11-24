@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 - Nikita Kuntsevich, 20 y.o.  <br>
-- ITMO University student  <br>
+- ITMO University student, Software Engineering  <br>
 - Machine learning engineer  <br>
 
 <p align="center">
