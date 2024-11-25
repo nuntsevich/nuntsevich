@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Nikita Kuntsevich, 20 y.o. <br>
+Nikita Kuntsevich, 20 y.o. <br>
 - Student at ITMO University, Software Engineering (09.03.02) <br>
 - Passionate about machine learning and data science <br>
 
