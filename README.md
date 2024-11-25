@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
 Student at ITMO University, Software Engineering (09.03.02) <br>
-Passionate about machine learning and data science <br>
+Passionate about machine learning and data science. <br>
