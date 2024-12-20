@@ -22,8 +22,4 @@ Here are some ideas to get you started:
 Student at ITMO University, Software Engineering (09.03.02) <br>
 Passionate about machine learning and data science. <br>
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/cpp/cpp-icon.svg" alt="cpp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
-</p>
+![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmFpeTExaXN2d290YmZjOHh1NjFjYWFwMDZhbGl6NnphZ3p2MTNwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XC35QORbwEcD1JrOj9/giphy.gif))
