@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTgwZnhhOGU1eDJmemFtZXp1Nml1M3BzZjFzNDduaWhqZGF3cm5sNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NDXLnQ17tN6kvgVdsC/giphy.gif" /> 
 
-ITMO University Student, Software Engineering (09.03.02) <br/>
+ITMO University Student, Software Engineering (09.03.02). <br/>
 Passionate about machine learning and data science. <br/>
+<br/>
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
