@@ -30,6 +30,5 @@ Here are some ideas to get you started:
 
 Student at <a href="https://itmo.ru">ITMO University</a>, Software Engineering. <br/>
 Passionate about computer science, math and machine learning. <br/>
-<br/><br/>
-
+<br/>
 Currently I'm competing on kaggle to improve my skills and earn medals.
