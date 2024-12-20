@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-
+Nikita Kuntsevich, 21 y.o.
 Student at <a href="https://itmo.ru">ITMO University</a>, Software Engineering. <br/>
 Passionate about computer science, math and machine learning. <br/>
 <br/>
