@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-ITMO University Student, Software Engineering (09.03.02) <br>
-Passionate about machine learning and data science. <br>
 
-<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdibmRzOXdydnA2d2g0eWlyODdqMm1remlzYW5qOXB3bGk4cDJ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XC35QORbwEcD1JrOj9/giphy.webp"/>
 
-| I am text to the left  | ![rofl](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdibmRzOXdydnA2d2g0eWlyODdqMm1remlzYW5qOXB3bGk4cDJ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XC35QORbwEcD1JrOj9/giphy.webp) |
+| ITMO University Student, Software Engineering (09.03.02) <br>
+Passionate about machine learning and data science.  | ![rofl](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdibmRzOXdydnA2d2g0eWlyODdqMm1remlzYW5qOXB3bGk4cDJ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XC35QORbwEcD1JrOj9/giphy.webp) |
