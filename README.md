@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTgwZnhhOGU1eDJmemFtZXp1Nml1M3BzZjFzNDduaWhqZGF3cm5sNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NDXLnQ17tN6kvgVdsC/giphy.gif" /> 
 
 
-![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-<br/><br/>
-
 Student at <a href="https://itmo.ru">ITMO University</a>, Software Engineering. <br/>
 Passionate about computer science, math and machine learning. <br/>
 <br/>
