@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 <br/>
 
-Software Engineering Student at <a href="https://itmo.ru">ITMO University</a>
-Passionate about machine learning and data science. <br/>
+Software Engineering Student at <a href="https://itmo.ru">ITMO University</a> <br/>
+Passionate about machine learning and data science. 
 
 
 
