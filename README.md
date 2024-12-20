@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-<br/>
+<br/><br/>
 Student at <a href="https://itmo.ru">ITMO University</a>, Software Engineering. <br/>
 Passionate about computer science, math and machine learning. <br/>
 
