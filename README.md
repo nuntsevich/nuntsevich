@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 ITMO University Student, Software Engineering (09.03.02) <br/>
 Passionate about machine learning and data science. 
-![](https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
