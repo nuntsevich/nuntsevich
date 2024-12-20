@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 Student at ITMO University, Software Engineering (09.03.02) <br>
 Passionate about machine learning and data science. <br>
-<img style="float: right;" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdibmRzOXdydnA2d2g0eWlyODdqMm1remlzYW5qOXB3bGk4cDJ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XC35QORbwEcD1JrOj9/giphy.webp">
+
+<img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdibmRzOXdydnA2d2g0eWlyODdqMm1remlzYW5qOXB3bGk4cDJ0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XC35QORbwEcD1JrOj9/giphy.webp"/>
