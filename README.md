@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 <br/>
 
-Nikita Kuntsevich, 20 y.o.
+Nikita Kuntsevich, 20 y.o. <br/>
 ITMO University Student, Software Engineering (09.03.02) <br/>
 Passionate about machine learning and data science. <br/>
 
