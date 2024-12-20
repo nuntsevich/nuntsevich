@@ -29,5 +29,3 @@ Passionate about computer science, math and machine learning. <br/>
 <br/>
 ![](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-<br/><br/>
-Current stack: c++, python, classic ML, DL (NLP, CV) 
