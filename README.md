@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://itmo.ru">ITMO University</a> Student, Software Engineering. <br/>
-Passionate about machine learning and data science. 
+Passionate about machine learning and data science. <br/>
 <br/>
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
