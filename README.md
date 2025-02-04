@@ -28,7 +28,7 @@ Passionate about machine learning, math and computer science.
 <br/><br/>
 Currently I'm competing on kaggle to enhance my skills and knowledge.
 <br/><br/>
-Technical skills<br/>
+**Technical skills**<br/>
 Programming: Python (numpy, pandas, sklearn, PyTorch, TensorFlow), C++.<br/>
 Machine Learning: Classic ML, Deep Learning, NLP, Computer Vision.<br/>
 Data Analysis: Statistical Analysis, Time Series Analysis.<br/>
