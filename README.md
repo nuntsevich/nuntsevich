@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 
 
 Student at <a href="https://itmo.ru">ITMO University</a>, Software Engineering (FITP). <br/>
-Passionate about computer science, math and machine learning. <br/>
+Passionate about machine learning, math and computer science. <br/>
 <br/>
 Currently I'm competing on kaggle to enhance my skills and knowledge.
+
+Technical skills
+Programming: Python (numpy, pandas, sklearn, PyTorch, TensorFlow), C++.
+Machine Learning: Classic ML, Deep Learning, NLP, Computer Vision.
+Data Analysis: Statistical Analysis, Time Series Analysis.
+Tools: Git, Linux, MATLAB.
