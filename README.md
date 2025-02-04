@@ -34,4 +34,4 @@ Machine Learning: Classic ML, Deep Learning, NLP, Computer Vision.<br/>
 Data Analysis: Statistical Analysis, Time Series Analysis.<br/>
 Tools: Git, Linux, MATLAB.
 <br/><br/>
-Languages: English, Russian
+Languages: English, Russian.
