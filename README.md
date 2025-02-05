@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 Student at <a href="https://itmo.ru">ITMO University</a>, Software Engineering (FITP). <br/>
 Passionate about machine learning, math and computer science. 
 <br/><br/>
-Currently I'm competing on kaggle to enhance my skills and knowledge.
+Currently I'm competing on kaggle to improve my skills and knowledge.
 <br/><br/>
 **Technical skills**<br/>
 Programming: Python (numpy, pandas, sklearn, PyTorch), C++.<br/>
