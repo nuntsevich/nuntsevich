@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTgwZnhhOGU1eDJmemFtZXp1Nml1M3BzZjFzNDduaWhqZGF3cm5sNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NDXLnQ17tN6kvgVdsC/giphy.gif" /> 
-
+-->
 
 Student at <a href="https://itmo.ru">ITMO University</a>, Software Engineering (FITP). <br/>
 Passionate about machine learning, math and computer science. 
