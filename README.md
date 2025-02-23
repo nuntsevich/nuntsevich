@@ -31,7 +31,7 @@ Currently I'm competing on kaggle to improve my skills and knowledge.
 **Technical skills**<br/>
 Programming: Python (numpy, pandas, sklearn, PyTorch), C++.<br/>
 Machine Learning: Classic ML, Deep Learning, NLP, Computer Vision.<br/>
-Data Analysis: Statistical Analysis, Time Series Analysis.<br/>
+Data Analysis: Statistical Analysis.<br/>
 Tools: Git, Linux, MATLAB.
 <br/><br/>
 Languages: English, Russian.
